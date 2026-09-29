@@ -1,0 +1,22 @@
+Xin License
+
+Copyright (c) 2026 Signeen Inc. All rights reserved.
+
+You may install and use Xin at no charge for non-commercial use or evaluation,
+including evaluation by a business. Xin includes the xin, xin-gateway, and
+xingress programs.
+
+Any other use, including serving a business's production traffic, requires a
+separate written commercial license from Signeen Inc. Contact
+licensing@xinproxy.com.
+
+Except for the permission to install and use Xin stated above, no rights to
+copy, modify, distribute, or sublicense Xin are granted. All rights not
+expressly granted are reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT.
+
+Third-party components remain subject to their own licenses, reproduced in
+ACKNOWLEDGMENTS. This license does not limit rights granted under those terms.

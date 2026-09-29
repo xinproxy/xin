@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest a Xin feature or compatibility improvement
+title: "Feature: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like Xin to do?
+      description: Describe the use case and, if relevant, the nginx configuration you want to use.
+    validations:
+      required: true

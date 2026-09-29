@@ -1,0 +1,28 @@
+name: Bug report
+description: Report a problem with Xin
+title: "Bug: "
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Xin version
+      description: Output of xin -V
+      placeholder: xin/0.1.11, Linux amd64, FIPS
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected, what occurred, and steps to reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: config
+    attributes:
+      label: Relevant configuration and logs
+      description: Remove passwords, private keys, tokens, and customer data before posting.
+      render: text
+    validations:
+      required: false
